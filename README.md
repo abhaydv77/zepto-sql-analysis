@@ -1,13 +1,13 @@
-Zepto SQL Analysis
+#Zepto SQL Analysis
 
 This is my first real SQL-based project where I tried to build something practical and explore how SQL can be used for data cleaning, exploration, and business insights.
 It’s not perfect and there’s still a lot more I can add in the future, but it’s a good start for me to practice real-world problem solving.
 
-📂 What’s Inside
+#📂 What’s Inside
 
 zepto.sql → SQL script with everything I’ve done (table creation, cleaning steps, and analysis queries).
 
-🛠️ What I Did
+#🛠️ What I Did
 1. Created a Database Schema
 
 Designed a ZEPTO table with product details (category, MRP, discount %, stock status, weights, etc.).
@@ -36,7 +36,7 @@ Segmented products by weight groups (Low, Medium, Bulk).
 
 Identified value-for-money products using price-per-gram.
 
-📊 What I Learned
+#📊 What I Learned
 
 How to structure a SQL project step by step.
 
