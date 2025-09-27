@@ -43,3 +43,9 @@ How to structure a SQL project step by step.
 The importance of cleaning before analyzing.
 
 Writing queries for business-like insights, not just raw data.
+
+🔗 Connect
+
+This is just the start of my journey 🚀
+I’ll be sharing more projects as I keep learning.
+https://www.linkedin.com/in/abhay-yadav-4539222b3/
